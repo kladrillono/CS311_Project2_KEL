@@ -1,0 +1,16 @@
+C:\Users\kenda\source\repos\CS311_Project2_KEL\obj\Debug\net6.0-windows\CS311_Project2_KEL.Form1.resources
+C:\Users\kenda\source\repos\CS311_Project2_KEL\obj\Debug\net6.0-windows\CS311_Project2_KEL.csproj.GenerateResource.cache
+C:\Users\kenda\source\repos\CS311_Project2_KEL\obj\Debug\net6.0-windows\CS311_Project2_KEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenda\source\repos\CS311_Project2_KEL\obj\Debug\net6.0-windows\CS311_Project2_KEL.AssemblyInfoInputs.cache
+C:\Users\kenda\source\repos\CS311_Project2_KEL\obj\Debug\net6.0-windows\CS311_Project2_KEL.AssemblyInfo.cs
+C:\Users\kenda\source\repos\CS311_Project2_KEL\obj\Debug\net6.0-windows\CS311_Project2_KEL.csproj.CoreCompileInputs.cache
+C:\Users\kenda\source\repos\CS311_Project2_KEL\bin\Debug\net6.0-windows\CS311_Project2_KEL.exe
+C:\Users\kenda\source\repos\CS311_Project2_KEL\bin\Debug\net6.0-windows\CS311_Project2_KEL.deps.json
+C:\Users\kenda\source\repos\CS311_Project2_KEL\bin\Debug\net6.0-windows\CS311_Project2_KEL.runtimeconfig.json
+C:\Users\kenda\source\repos\CS311_Project2_KEL\bin\Debug\net6.0-windows\CS311_Project2_KEL.dll
+C:\Users\kenda\source\repos\CS311_Project2_KEL\bin\Debug\net6.0-windows\CS311_Project2_KEL.pdb
+C:\Users\kenda\source\repos\CS311_Project2_KEL\obj\Debug\net6.0-windows\CS311_Project2_KEL.dll
+C:\Users\kenda\source\repos\CS311_Project2_KEL\obj\Debug\net6.0-windows\refint\CS311_Project2_KEL.dll
+C:\Users\kenda\source\repos\CS311_Project2_KEL\obj\Debug\net6.0-windows\CS311_Project2_KEL.pdb
+C:\Users\kenda\source\repos\CS311_Project2_KEL\obj\Debug\net6.0-windows\CS311_Project2_KEL.genruntimeconfig.cache
+C:\Users\kenda\source\repos\CS311_Project2_KEL\obj\Debug\net6.0-windows\ref\CS311_Project2_KEL.dll
